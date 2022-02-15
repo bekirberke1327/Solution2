@@ -1,0 +1,7 @@
+﻿SELECT TOP (1000) [Id]
+      ,[BrandId]
+      ,[ColorId]
+      ,[Model]
+      ,[ModelYear]
+      ,[DailyPrice]
+  FROM [RentaCar].[dbo].[Cars]
